@@ -1,0 +1,608 @@
+﻿
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+
+<title>Home: National Institute for Empowerment of Persons with Multiple Disabilities, 
+NIEPMD, India</title>
+<meta http-equiv="Content-Type" content="text/html"; charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta name="Description" content="National Institute for Empowerment of Persons with Multiple Disabilities,  under Ministry of Social Justice and Empowerment, Government of india, serves as national resource center for empowerment of persons with multiple disabilities such as blindness, hearing impairment, mental retardation, mental illness, etc.">
+<meta name="Keywords" content="National Institute for empowerment of Persons with Multiple Disabilities, Ministry of Social Justice and Empowerment, Government of india, Services, Department, Courses, Multiple Disability, Photo Gallery, Research and Development, Library , Staff  Recruitment, NGO Partnership System. ">
+<meta name="Keyphrases" content="National Institute for empowerment of Persons with Multiple Disabilities, Ministry of Social Justice and Empowerment, Government of india, Services, Department, Courses, Multiple Disability, Photo Gallery, Research and Development, Library , Staff  Recruitment, NGO Partnership System.">
+<link rel="shortcut icon" href="images/favicon.ico">
+
+		<link rel='stylesheet' type='text/css' href='css/reset.css'>
+		<link href="css/home.css" rel="stylesheet" type="text/css">
+		
+
+  <!-- <script language="javascript" type="text/javascript">
+
+  
+  function makeItMove(containerId,userActionId,textItemId,i)
+
+{
+
+// Values used by the script.
+
+// BEWARE : YOU WILL HAVE TO MODIFIE THESE VALUES IN THE HTML CODE AS WELL, SETTING THEM TO THEIR NUMERIC VALUES!
+
+var startValue=-61;// The value the movement will start. Must be big enough to let some white space.
+
+var endValue=1200; // the value the movement will end. Must be big enough to let the whoile text disappear
+
+var stopValue=1250; // Must be greater than endValue;
+
+//
+
+var containerPositionFromTop=201;
+
+var containerPositionFromLeft=101;
+
+var containerWidth=98.7;
+
+var containerHeight=180;
+
+//
+
+if (document.getElementById)
+
+    {
+
+
+
+    if(!document.getElementById('userAction'))
+
+        {
+
+        //alert("No action");
+
+
+
+        }
+
+    else
+
+        {
+
+        document.getElementById(userActionId).style.visibility="visible";
+
+        //document.getElementById(userActionId).style.backgroundColor="rgb(257,205,217)";
+
+        document.getElementById(userActionId).style.display="block";
+
+        //document.getElementById(userActionId).style.float="left";
+
+        document.getElementById(userActionId).style.zIndex="15";
+
+        document.getElementById(userActionId).style.position="relative";
+
+        document.getElementById(userActionId).style.top="0px";
+
+        document.getElementById(userActionId).style.left="0px";
+
+        document.getElementById(userActionId).style.width="auto";
+
+        document.getElementById(userActionId).style.height="auto";
+
+        }
+
+    document.getElementById(containerId).style.zIndex="11";
+
+    document.getElementById(containerId).style.position="relative";
+
+    //document.getElementById(containerId).style.top=containerPositionFromTop+"px";
+
+    //document.getElementById(containerId).style.left=containerPositionFromLeft+"px";
+
+    document.getElementById(containerId).style.width=containerWidth+"%";
+
+    document.getElementById(containerId).style.height=containerHeight+"px";
+
+    document.getElementById(containerId).style.overflow="hidden";
+
+
+
+    document.getElementById(textItemId).style.zIndex="11";
+
+    document.getElementById(textItemId).style.position="relative";
+
+    //document.getElementById(textItemId).style.top=0+"px";
+
+    document.getElementById(textItemId).style.left=-i+"px";
+
+    }
+
+if(i<endValue)
+
+    {
+
+    i++;
+
+    //alert("makeItMove("+textItemId+","+i+")");
+
+    timer=setTimeout("makeItMove('"+containerId+"','"+userActionId+"','"+textItemId+"',"+i+")",100);
+
+    }
+
+else
+
+    if(i==endValue)
+
+        {
+
+        i=startValue;
+
+        timer=setTimeout("makeItMove('"+containerId+"','"+userActionId+"','"+textItemId+"',"+i+")",100);
+
+        }
+
+     else
+
+        {
+
+        clearTimeout(timer);
+
+        document.getElementById(textItemId).style.zIndex="11";
+
+        document.getElementById(textItemId).style.position="relative";
+
+        document.getElementById(textItemId).style.top=15+"px";
+
+        document.getElementById(textItemId).style.left=17+"px";
+
+        document.getElementById(containerId).style.overflow="scroll";
+
+        }
+
+}
+
+     // 
+
+</script> -->
+
+</head>
+
+<body id="home" onload="makeItMove('container','userAction','textItem',-61);">
+
+<div id="header">
+<div id="toolsdiv"><!-- start: toolsdiv -->	
+<div class="tools">
+<span><a href="#maincontent">Skip to main content</a></span> 
+<img src="images/line.gif" alt="">  
+<span>
+Text Size: 
+
+<a href="?textsize=Smaller&amp;pageid=" title="Decrease text size"><img src="images/textsizeMinus.gif" alt="Decrease text size"></a> <span class="hidethis">|</span>
+    <a href="?textsize=Medium&amp;pageid=" title="Normal text size"><img src="images/textsizeNormal.gif" alt="Normal text size"></a> <span class="hidethis">|</span>
+    <a href="?textsize=Larger&amp;pageid=" title="Increase text size"><img src="images/textsizePlus.gif" alt="Increase text size"></a>
+ </span>
+
+<img src="images/line.gif" alt="">  
+
+<span>
+Contrast Scheme:
+<img src="images/standard.gif" alt="Black on White">
+<a href="?contrastscheme=High"><img src="images/white_on_black.gif" alt="White on Black"></a>
+<a href="?contrastscheme=Blue"><img src="images/white_on_blue.gif" alt="White on Blue"></a>
+<a href="?contrastscheme=Yellow"><img src="images/black_on_lightyellow.gif" alt="Black on PaleYellow"></a>
+</span>
+<img src="images/line.gif" alt="">  
+<span><a href="screenreaderaccess.php"><img src="images/screen_reader.gif" alt=""> Screen Reader Access</a></span>
+</div>
+
+<div class="searchBox">
+
+<form method="get" action="search.php"  id="searchbox_007934221407200591215:jbrw3_uwdga">
+
+  <input name="cx" value="007934221407200591215:jbrw3_uwdga" type="hidden">
+  <input type="hidden" name="ie" value="UTF-8">
+  <input name="cof" value="FORID:11" type="hidden">
+
+  <script type="text/javascript" src="http://www.google.com/cse/brand?form=searchbox_007934221407200591215:jbrw3_uwdga&amp;lang=en"></script>
+
+  <!-- Google CSE Search Box Ends -->
+
+
+  <label for="search">Search:</label>
+<input name="q" class="bg-color" value="" id="search" onfocus="ufc2();" type="text" size="12" maxlength="255">
+
+<span class="formButton">
+<input type="image" src="images/search.gif" name="sa" value="Go" class="go-btn" alt="Go">
+
+</span>
+</form>
+
+</div>
+</div><!-- end: toolsdiv -->
+
+
+<div id="banner">
+<img src="images/NIEPMD_logo.gif" alt="NIEPMD logo">
+
+<span class="title">
+<img src="images/title.jpg" alt="National Institute for Empowerment of Persons with Multiple Disabilities, Ministry of Social justice &amp; Empowerment, Govt. of India">
+</span>
+
+</div>
+
+<ul class="mainNav">
+		<li class="link1">
+    	<div class="div1">
+        	<div class="div2"><span>Home</span>
+           	</div>
+      	</div>
+ 	</li>
+			<li class="link2"><a href="aboutus.php"><span>About Us</span></a></li>
+
+		<li class="link3"><a href="services.php"><span>Services</span></a></li>
+
+	    		<li class="link4"><a href="department.php"><span>Departments</span></a></li>
+
+	    		<li class="link5"><a href="courses.php"><span>Courses</span></a></li>
+
+		        <li class="link6"><a href="gallery.php"><span>Photo Gallery</span></a></li>
+		
+	    
+		<li class="link7"><a href="contactus.php"><span>Contact Us</span></a></li>
+	    
+</ul>
+</div><!-- #header -->
+	<div id="columnColours">
+		<div id="columnWrapper1">
+			<div id="columnWrapper2">
+				<div id="mainContentWrapper">
+
+					<div id="leftColumn">
+						<div class="leftContent">
+							<div class="Content">
+
+								<a id="maincontent" name="maincontent"></a>
+								<h2>About Multiple Disabilities</h2>
+							</div>
+							<div class="content">
+								<p align='justify'>
+									When a child has several different disabilities we say, that he/she has multiple disabilities. For example, a child may have difficulties in learning, along with controlling her movements and/or with hearing and vision. The effect of multiple disability can be more than the combination of two individual disabilities.
+								</p>
+								<p>
+							 		A child who is multiple disabled should receive help as early as possible so that she can be helped to achieve her potential, and so that her disabilities will not become worse.
+								</p>
+								<p class="more">
+									<a href="mul_disability.php">
+										More on multiple disabilities
+									</a> >>
+								</p>
+							</div>
+							<div class="block1">
+
+								<h2>What's New</h2>
+								<div class="content1">
+                                <h3>
+									<a href="documents/selectedcandidatescrcnag2803.pdf" target="_blank" title="PDF file that opens in a new window">
+											Selected Candidates for Group A & Group B(CRC-Nagpur)(4.68 MB)<img src="images/new1.gif" alt="new_update">
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								<h3>
+									<a href="documents/corrigendumfurniture2203.pdf" target="_blank" title="PDF file that opens in a new window">
+											Corrigendum E-Tender Notice(Furniture Items)(88 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								
+								<h3>
+									<a href="documents/crckozhikode2003.pdf" target="_blank" title="PDF file that opens in a new window">
+											Recruitment Process-Group B & C Posts CRC-Kozhikode Advt No.07/2016(4.40 MB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								
+								
+								
+								<h3>
+									<a href="documents/crcrecruitment022017.pdf" target="_blank" title="PDF file that opens in a new window">
+											CRC-Nagpur Scurtinizing details of Employment Notification No.02/2017(1.96 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								<h3>
+									<a href="documents/crckozhikode0703.pdf" target="_blank" title="PDF file that opens in a new window">
+											Employment Notification No.07/2016(CRC-Kozhikode) (111 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								
+								<h3>
+									<a href="documents/nagdirector210217.pdf" target="_blank" title="PDF file that opens in a new window">
+											Selection for the Post Of Director CRC-Nagpur (605 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								<h3>
+								        	<a href="documents/pppscst052016.pdf" target="_blank" title="PDF file that opens in a new window">
+											Inviting Public Private Partnership(PPP)Proposal under SC/ST Program by NIEPMD(436 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+									</h3>
+									<h3>
+								        	<a href="documents/ppp0816.pdf" target="_blank" title="PDF file that opens in a new window">
+											Inviting Proposal for Public Private Partnership(PPP) for conducting training program, Special Programs, etc at North East Regions)(460 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+									</h3>
+											
+											
+											
+								<h3>
+									<a href="documents/nationalanthem0117.pdf" target="_blank" title="PDF file that opens in a new window">
+											Governmment of India orders - National Anthem(300 KB)
+											<img src="images/pdf_icon.gif" alt="PDF File">
+											<img src="images/new_window_icon.gif" alt="Opens in a new window">
+										</a>
+											</h3>
+								<h3>
+										<li>
+											<a href="documents/swachh0916.pdf" target="_blank" title="PDF file that opens in a new window">
+												Swachh Bharat Mission Activities (2.37 KB)
+												<img src="images/pdf_icon.gif" alt="PDF File">
+												<img src="images/new_window_icon.gif" alt="Opens in a new window">
+											</a>
+										</li>
+									</ul>
+									</h3>
+									
+									<h3>
+										<b>Swavlamban Health Insurance Scheme</b>
+									</h3>
+									<ul>
+										<li>
+											<a href="documents/swavlamban_scheme-0915.pdf" target="_blank" title="PDF file that opens in a new window">
+												Group Mediclaim Policy for Persons with Disabilities of the Trust Fund
+												for Empowerment of Persons with Disabilities (1.85 MB)
+												<img src="images/pdf_icon.gif" alt="PDF File">
+												<img src="images/new_window_icon.gif" alt="Opens in a new window">
+											</a>
+										</li>
+									</ul>
+									<h3>
+										</a>
+										</li>
+									</ul>
+									
+									<br>
+
+
+									<p class="more"><a href="what-new.php">More on What's New</a> >></p>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div><!-- end of #leftColumn -->
+
+					<div class="mainContent">
+
+						<h1 class="hidethis">National Institute for Empowerment of Persons with Multiple Disabilities</h1>
+						<div class="container1">
+							<div id="userAction">
+								<p class="hidethis">If you are a Screen reader user click on the Stop link to stop the scroll and view the photographs.</p>
+
+								<a href="javascript:clearTimeout(timer);makeItMove('container','userAction','textItem',-400);">
+									<img src="images/play.gif" alt=""> Start</a>
+
+								<a href="javascript:makeItMove('container','userAction','textItem',1250);">
+									<img src="images/stop.gif" alt=""> Stop</a>
+							</div>
+						</div>
+
+						<div id="container">
+							<div id="textItem">
+								<ul>
+									<li><img src="images/home/pic01.jpg" alt="A client given training in Occupational Therapy Unit" title="A client given training in Occupational Therapy Unit" height="135" width="200"></li>
+									<li><img src="images/home/pic02.jpg" alt="Physiotherapist assessing  a Person with Disability" title="Physiotherapist assessing  a Person with Disability" height="135" width="200"></li>
+									<li><img src="images/home/pic03.jpg" alt="Adult with Multiple Disability given training at Vocational training unit" title="Adult with Multiple Disability given training at Vocational training unit"height="135" width="200"></li>
+									<li><img src="images/home/pic04.jpg" alt="Psychological Assessment to a client" title="Psychological Assessment to a client" height="135" width="200"></li>
+									<li><img src="images/home/pic05.jpg" alt="A Client given training in Special School" title="A Client given training in Special School" height="135" width="200"></li>
+									<li><img src="images/home/pic06.jpg" alt="Children with Disability given training at Early Intervention Unit" title="Children with Disability given training at Early Intervention Unit"height="135" width="200"></li>
+									<li><img src="images/home/pic07.jpg" alt="Children with Autism and additional Disabilities given training at Special School" title="Children with Autism and additional Disabilities given training at Special School" height="135" width="200"></li>
+									<li><img src="images/home/pic08.jpg" alt="A Deafblind client given training in Deafblind Unit" title="A Deafblind client given training in Deafblind Unit" height="135" width="200"></li>
+									<li><img src="images/home/pic09.jpg" alt="Yoga Performed by Persons with Disabilities" title="Yoga Performed by Persons with Disabilities" height="135" width="200"></li>
+									<li><img src="images/home/pic10.jpg" alt="Assessment  of a client at prosthetic & Orthotic Unit" title="Assessment  of a client at prosthetic & Orthotic Unit" height="135" width="200"></li>
+									<li><img src="images/home/pic11.jpg" alt="Adult with Multiple Disabilities Performing different activities in Vocational Training"  title="Adult with Multiple Disabilities Performing different activities in Vocational Training"height="135" width="200"></li>
+									<li><img src="images/home/pic12.jpg" alt="Parents of Persons with Disabilities given training on Tailoring & Embroidery" title="Parents of Persons with Disabilities given training on Tailoring & Embroidery"height="135" width="200"></li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="mainCol">
+							<p align='justify'class="firstPara">
+								National Institute for empowerment of Persons with Multiple Disabilities (NIEPMD) established in the year 2005, on East Coast Road, Muttukadu, Chennai, Tamil Nadu, (about 30 km from Chennai Central railway station, Mofussil bus terminus and airport) Under Department of Empowerment of Persons with Disabilties (Divyangjan),  Ministry of Social Justice &amp; Empowerment, Govt. of India, to  serve as a national resource center for empowerment of persons with Multiple Disabilities such as those with two or more disabilities in a person. The Disabilities enumerated as per PWD (1995) Act, are Low Vision, Blindness, Locomotor Disability, Hearing Impairment, Mental Retardation, Mental Illness, Leprosy Cured Persons and as per The National Trust (1999) Act, are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities.
+							</p>
+
+							<h2>Objectives</h2>
+							<ul>
+								<li>To undertake development of human resources for management, training
+									rehabilitation, education, employment and social development of persons with
+									Multiple Disabilities.</li>
+								<li>To promote and conduct research in all areas relating to Multiple Disabilities</li>
+								<li>To develop Transdisciplinary models and strategies for social rehabilitation and
+									to meet the needs of diverse groups of people with Multiple Disabilities.</li>
+								<li>To undertake services and out reach programs for the persons with Multiple
+									Disabilities.</li>
+							</ul>
+
+							<h2>Videos</h2>
+							<iframe width="420" height="315" src="//www.youtube.com/embed/_Kel66erm74" frameborder="0"></iframe>
+
+							<h2>Vision</h2>
+							<p align='justify'>The Persons with Multiple Disabilities have equal rights to lead a better quality of life. This may be enabled with committed professionalism, accessible environment, equal opportunities, positive attitudes and appropriate, affordable, acceptable and available technological interventions.</p>
+
+							<h2>Mission</h2>
+							<p align='justify'>To provide need based comprehensive rehabilitation through team approach facilitating inclusion, ensuring empowerment of persons with Multiple Disabilities and their families and by substantiating field based research and development of human resources.</p>
+
+							<h2>Value Statement</h2>
+							<p align='justify'>Promoting quality of life for persons with Multiple Disabilities through equal participation of clients, families, professionals and community agencies.</p>
+
+						</div>
+
+						<div class="rightCol">
+							<h2>Quick Links</h2>
+							<ul class="menu">
+								<li>
+									<a href="events.php" class="news">News & Events
+									</a>
+								</li>
+								<li>
+									<a href="Conference.php" class="conf">Conference<img src="images/new1.gif" alt="new_update">
+									</a>
+								</li>
+								<li>
+									<a href="examcell.php" class="examcell">Examination Cell<img src="images/new1.gif" alt="new_update">
+                                    </a>
+								</li>
+								
+								<li>
+									<a href="research.php" class="research">Research &amp; Development
+									</a>
+								</li>
+								<li>
+									<a href="publication.php"class="publication">Publications
+									</a>
+								</li>
+								<li>
+									<a href="library.php"class="library">Library
+									</a>
+								</li>
+								<li>
+									<a href="tendernotice.php" class="tender">Tender Notice<img src="images/new1.gif" alt="new_update">
+									</a>
+								</li>
+								<li>
+									<a href="tenderproceeding.php" class="proceeding">Tender Awarding Proceeding
+									</a>
+								</li>
+								<li>
+									<a href="downloads.php" class="download">Downloads
+									</a>
+								</li>
+								<li>
+									<a href="links.php" class="web">Related Websites  
+									</a>
+								</li>
+								<li>
+								    <a href="rti.php" class="rti">RTI Act
+									</a>
+								</li>
+								<li>
+									<a href="disabilityact.php" class="diabact">Disability Act
+									</a>
+								</li>
+								<li>
+									<a href="schemes.php" class="schemes">Schemes
+									</a>
+								</li>
+								<li>
+									<a href="annual_report.php" class="annualrpt">Annual Report
+									</a>
+								</li>
+								<li>
+									<a href="archives.php" class="archives">Archives
+									</a>
+								</li>
+								<li>
+									<a href="http://www.youtube.com/channel/UC8BfKMhtDSpedSy1haC3qGw" class="videos">Videos
+									</a>
+								</li>
+                                <li>
+									<a href="digital.php" class="digital">Digital Learning <img src="images/new1.gif" alt="new_update">
+									</a>
+                                    </li>
+                                    
+								<li class="social">
+									<ul>
+										<li class="facebook">
+											<a href="https://twitter.com/NIEPMD"><img src="images/tw.png" alt="Twitter">
+											</a>
+										</li>
+										<li>
+											<a href="http://www.facebook.com/pages/Niepmd/357150627752503">
+												<img src="images/fb.png"  alt="Facebook">
+											</a>
+										</li>
+										<li>
+											<a href="https://plus.google.com/u/0/110848760419379046650"><img src="images/g+.png" alt="Twitter">
+											</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+
+							<h2>Employee Corner</h2>
+							<ul class="menu">
+								<li>
+									<a href="staff.php" class="staff">Staff</a>
+								</li>
+								<li>
+									<a href="recruitment.php" class="recruit">Recruitment</a>
+								</li>
+								<li>
+									<a href="bankdetails.php" class="bankdetails">Bank Details</a>
+								</li>
+							</ul>
+
+							<p class="center"><a href="http://india.gov.in" target="_blank" title="External Website that opens in a new window"><img src="images/indiagovin_logo.gif" alt="http://india.gov.in, the National Portal of India (External Website that opens in a new window)"></a></p>
+
+							<p class="brownBox">You are visitor number: 627028 </p>
+							<p class="blueBox">Last updated on 29<sup>th</sup>March 2017</p>
+						</div>
+
+					</div><!-- end of mainContent -->
+				</div><!-- end of #mainContentWrapper -->
+			</div><!-- end of #columnWrapper2 -->
+		</div><!-- end of #columnWrapper1 -->
+	</div><!-- end of #columnColours -->
+
+<div id="footer">
+<div class="footerLinks">
+
+<ul>
+<li><a href="terms.php">Terms &amp; Conditions</a></li>
+<li><a href="privacypolicy.php">Privacy Policy</a></li>
+
+<li><a  href="sitemap.php">Sitemap</a></li>
+
+<li><a href="help.php">Help</a></li>
+<li><a href="disclaimer.php">Disclaimer</a></li>
+<li><a href="documents/Certificate.pdf" target="_blank" title="PDF file that opens in a new window"> STQC Certificate<img src="images/pdf_icon.gif" alt="PDF File"> <img src="images/new_window_icon.gif" alt="Opens in a new window"></a></li>
+<li><a href="http://niepmd.tanki.in/feedback.php">Feedback</a></li>
+<li><a href="accessibilitystatement.php">Accessibility Statement</a></li>
+<li><a class="last" href="http://get.adobe.com/reader/" target="_blank" title="Adobe Acrobat Reader - External Website that opens in a new window">Download  <img src="images/pdf_icon.gif" border="0" alt="Adobe Acrobat Reader"> <img src="images/new_window_external.gif" border="0" alt="External website that opens in a new window"></a></li>
+</ul>
+</div>
+<p>Contents owned and maintained by:<br> 
+<strong>National Institute for Empowerment of Persons with Multiple Disabilities (NIEPMD)</strong><br>  
+(Dept.of Empowerment of Persons with Disabilities(Divyangjan), Ministry of Social Justice &amp; Empowerment, Govt. of India)<br>
+East Coast Road, Kovalam Post, Muttukadu, Chennai - 603112, Tamil Nadu, India<br>
+       Tele-Fax: +91-44-27472389	, Tele-Phone: 044- 27472113, 27472046 <br> 
+       Toll Free No: 18004250345 <br>	   
+	   Email: niepmd(at)gmail[dot]com,         GRAMS: NIEPMD</p>
+
+<p>Website designed and developed by: <a href="http://www.barrierbreak.com/" target="_blank" title="External website that opens in a new window" >Barrierbreak Technologies <img src="images/new_window_external.gif" alt="External website that opens in a new window"></a>, Hosted by: <a href="http://www.tn.nic.in/" target="_blank" title="External website that opens in a new window" >NIC, Chennai <img src="images/new_window_external.gif" alt="External website that opens in a new window"></a></p>
+<p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+</p>
+<p class="copyright">&#169; 2011 National Institute for Empowerment of Persons with Multiple Disabilities(NIEPMD). All rights reserved.</p>
+</div><!-- end of #footer -->
+</body>
+</html>

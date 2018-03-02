@@ -1,0 +1,149 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CrossFeed</title>
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="js/assets/js/jquery-1.11.1.min.js"></script>
+    <script src="material/materialize.min.js"></script>
+    <script src="material/jquery.min_2.js"></script>
+    <link rel="stylesheet" type="text/css" href="material/materialize.min.css">
+    <script src="material/materialize_2.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            $('.carousel').carousel();
+            $(".button-collapse").sideNav();
+            $(".bu").hide();
+
+        });
+
+
+        // Next slide
+        $('.carousel ').carousel('next');
+        $('.carousel ').carousel('next', 3); // Move next n times.
+        // Previous slide
+        $('.carousel ').carousel('prev');
+        $('.carousel').carousel('prev', 4); // Move prev n times.
+        // Set to nth slide
+        $('.carousel').carousel('set', 4);
+    </script>
+
+
+</head>
+<body style="background-color: #eee">
+<nav>
+    <div class="nav-wrapper">
+        <a href="#" class="brand-logo" style=" padding-left: 150px;font-style: oblique">CrossFeed<sup style="font-size: 20px;font-style: oblique;font-family:cursive">Beta</sup></a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+        <ul class="side-nav" id="mobile-demo">
+            <form action="login.php" method="post">
+                <li>
+                    <input id="first_name" placeholder="Email" type="text" class="validate" name="email" style="background-color: white;color: black;border:1px solid" autofocus="">
+
+                </li>
+                <li><input id="first_name" placeholder="Password" type="password" class="validate" name="password" style="background-color: white;color: black;border:1px solid"></li>
+                <input type="hidden" name="controller" value="task">
+                <input type="hidden" name="function" value="login">
+
+                <li><input type="submit" class="btn red lighten-1"></li>
+                <li><a href="registration.php">Sign Up</a></li>
+
+            </form>
+        </ul>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <form action="login.php" method="post">
+                <li><div>
+                    <input id="first_name" placeholder="Email" type="text" class="validate" name="email" style="background-color: white;color: black;border:1px solid;height: 1.9rem" autofocus="">
+                </div>
+                </li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li><input id="first_name" placeholder="Password" type="password" class="validate" name="password" style="background-color: white;color: black;border:1px solid;height: 1.9rem"></li>
+                <input type="hidden" name="controller" value="task">
+                <input type="hidden" name="function" value="login">
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li><input type="submit" class="btn red lighten-1"></li>
+                <li><a href="registration.php" class="btn red lighten-1">SignUp</a></li>
+            </form>
+        </ul>
+    </div>
+</nav><div class="row">
+    <div class="col m6 l6">
+
+        <div class="carousel">
+            <a class="carousel-item" href="#one!" style="z-index: -2; opacity: 0.14309; display: block; transform: translateX(247.5px) translateY(100px) translateX(-428.455px) translateZ(-428.455px);"><img src="images/c1.jpg"></a>
+            <a class="carousel-item" href="#two!" style="transform: translateX(247.5px) translateY(100px) translateX(-228.455px) translateZ(-228.455px); z-index: -1; opacity: 0.54309; display: block;"><img src="images/cpp1.jpg"></a>
+            <a class="carousel-item" href="#three!" style="transform: translateX(247.5px) translateY(100px) translateX(-28.4548px) translateX(0px) translateZ(-28.4548px); z-index: 0; opacity: 0.94309; display: block;"><img src="images/datastructure1.jpg"></a>
+            <a class="carousel-item" href="#four!" style="transform: translateX(247.5px) translateY(100px) translateX(171.545px) translateZ(-171.545px); z-index: -1; opacity: 0.65691; display: block;"><img src="images/html%20js%20cs.jpg"></a>
+            <a class="carousel-item" href="#five!" style="transform: translateX(247.5px) translateY(100px) translateX(371.545px) translateZ(-371.545px); z-index: -2; opacity: 0.25691; display: block;"><img src="images/linux88.png"></a>
+            <a class="carousel-item" href="#five!" style="transform: translateX(247.5px) translateY(100px) translateX(371.545px) translateZ(-371.545px); z-index: -2; opacity: 0.25691; display: block;"><img src="images/java2.jpg"></a>
+            <a class="carousel-item" href="#five!" style="transform: translateX(247.5px) translateY(100px) translateX(371.545px) translateZ(-371.545px); z-index: -2; opacity: 0.25691; display: block;"><img src="images/php1.jpg"></a>
+            <a class="carousel-item" href="#five!" style="transform: translateX(247.5px) translateY(100px) translateX(371.545px) translateZ(-371.545px); z-index: -2; opacity: 0.25691; display: block;"><img src="images/apti.png"></a>
+        </div>
+        <div class="row">
+            <div class="col m12 l12">
+                <h5 style="text-align: center">Developed By Deepak Chawla and Team.</h5>
+            </div>
+        </div>
+    </div>
+    <div class="col m6 l6">
+        <br><div> <ul class="collection">
+        <li class="collection-item avatar" style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+            <p style="font-size: 18px">Demo Login Email-id :-<u>admin@crossfeed.in</u> <br> Password:- <u>crossfeed@1307</u>
+            </p>
+
+        </li>
+        <li class="collection-item avatar" style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+            <p style="font-size: 18px">It is offline website which connect you to your friends and teachers within your college without any use bit of internet.
+            </p>
+
+        </li>
+        <li class="collection-item avatar"  style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+
+            <p style="font-size: 18px">It always updates you to college neccessary notices,information
+            </p>
+        </li>
+        <li class="collection-item avatar"  style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+
+            <p style="font-size: 18px">It provides different types programming language video tutorials like C,C++,HTML,CSS,Javascript.
+            </p>
+
+        </li>
+        <li class="collection-item avatar" style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+
+            <p style="font-size: 18px">It provides offline tests and increase your programming skills.
+            </p>
+
+        </li>
+        <li class="collection-item avatar" style="background-color: #eee">
+            <img src="images/star.png" alt="" class="circle">
+
+            <p style="font-size: 18px   ">It provides aptitude tests which to crack your interviews.
+            </p>
+
+        </li>
+
+    </ul></div>
+    </div>
+</div>
+
+<footer class="page-footer" style=" position: absolute;width: 100%;bottom: 0;left: 0;padding-top: 0px ">
+    <div class="footer-copyright">
+        <div class="container">
+           CrossFeed <i class="tiny material-icons">copyright</i> 2016 All rights reserved
+         <a class="grey-text text-lighten-4 right" href="about.php">About us</a>
+
+        </div>
+    </div>
+</footer>
+<script src="material/slider.js"></script>
+<script src="material/hammer.min.js"></script>
+<script src="material/cards.js"></script>
+<script src="material/init.js"></script>
+</body>
+</html>
